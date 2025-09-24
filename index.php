@@ -18,7 +18,7 @@ GCP_CLIENT_EMAIL=fake-service-account@my-demo-project-12345.iam.gserviceaccount.
 GCP_PRIVATE_KEY=-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0B...FAKE...\n-----END PRIVATE KEY-----\n
 
 # GitHub
-GITHUB_TOKEN=ghp_EXAMPLEuVqEyhQ03VY8xJfDkjdHwW1l4
+GITHUB_TOKEN=ghp_SkcaJ9ksKtU28f4mWIYPG9DdOGimlq4cUBgA
 
 # Slack
 SLACK_BOT_TOKEN=xoxb-123456789012-1234567890123-ABCDEFGHIJKLMNopqrstuvwxyz
