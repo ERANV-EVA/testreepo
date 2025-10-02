@@ -1,0 +1,10 @@
+auth:
+  openid:
+    enabled: true
+    clientId: 0oa76rh0z5zgKG7XXXXX
+    clientSecret: dTgsfHbYV9tt91Ng4dzvpULw6y7kjJaYxzfXXXXX
+    endpoints:
+      issuer: https://dev-6093102.okta.com
+      authorization: https://dev-6093102.okta.com/oauth2/v1/authorize
+    mapping:
+      externalIDKey: email
